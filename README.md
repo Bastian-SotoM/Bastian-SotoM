@@ -31,4 +31,4 @@ Actualmente estoy enfocando mi aprendizaje hacia arquitecturas en la nube y proc
 
 ### 📫 Cómo contactarme
 - ✉️ **Email:** bstom7499@gmail.com
-- 🔗 **LinkedIn:** linkedin.com/in/bastian-soto-morales-49b0a72a3
+- 🔗 **LinkedIn:** [Mi Perfil de LinkedIn](linkedin.com/in/bastian-soto-morales-49b0a72a3)
