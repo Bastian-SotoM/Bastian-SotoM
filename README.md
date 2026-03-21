@@ -2,7 +2,8 @@
 
 ### 🚀 Ingeniero Civil en Informática y Telecomunicaciones | Data Engineer Junior
 
-- Me especializo en transformar **datos no estructurados** en activos estratégicos, seguros y listos para la toma de decisiones. - Mi enfoque combina el rigor de la ingeniería civil con la agilidad del análisis de datos moderno, destacando en la construcción de **Pipelines ETL**, arquitecturas de **Soporte a la Decisión (DSS)** y automatización mediante **NLP/OCR**.
+- Me especializo en transformar **datos no estructurados** en activos estratégicos, seguros y listos para la toma de decisiones.
+- Mi enfoque combina el rigor de la ingeniería civil con la agilidad del análisis de datos moderno, destacando en la construcción de **Pipelines ETL**, arquitecturas de **Soporte a la Decisión (DSS)** y automatización mediante **NLP/OCR**.
 
 Actualmente enfoco mi aprendizaje en arquitecturas Cloud, procesamiento distribuido y la integración de datos empresariales de alto estándar.
 
@@ -36,7 +37,7 @@ Actualmente enfoco mi aprendizaje en arquitecturas Cloud, procesamiento distribu
 ### 💼 Experiencia y Proyectos Destacados
 
 - [Canalización ETL de Documentos Legales](https://github.com/Bastian-SotoM/legal-document-etl-pipeline):
-- ** Desarrollo de un Sistema de Soporte a la Decisión (DSS)** que utiliza **Python, OCR y Regex** para procesar sentencias judiciales, reduciendo tiempos manuales en un 90%.
+- **Desarrollo de un Sistema de Soporte a la Decisión (DSS)** que utiliza **Python, OCR y Regex** para procesar sentencias judiciales, reduciendo tiempos manuales en un 90%.
 - **Arquitectura de Datos Ponderada:** Diseño de motores de reglas con lógica discriminante para evaluación de riesgos biopsicosociales y patrimoniales.
 - **Gestión SAP S/4 HANA:** Conocimiento profundo de estructuras organizativas, datos maestros y flujos transaccionales en ciclos de compra y venta.
 - **Aseguramiento de Calidad (Data QA):** Implementación de logs de auditoría forense inmutables y control de acceso basado en roles (RBAC) para garantizar la gobernanza de datos.
