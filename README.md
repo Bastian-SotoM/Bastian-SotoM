@@ -35,8 +35,8 @@ Actualmente enfoco mi aprendizaje en arquitecturas Cloud, procesamiento distribu
 
 ### 💼 Experiencia y Proyectos Destacados
 
-- **[Canalización ETL de Documentos Legales](https://github.com/Bastian-SotoM/legal-document-etl-pipeline):
-- ** Desarrollo de un Sistema de Soporte a la Decisión (DSS) que utiliza **Python, OCR y Regex** para procesar sentencias judiciales, reduciendo tiempos manuales en un 90%.
+- [Canalización ETL de Documentos Legales](https://github.com/Bastian-SotoM/legal-document-etl-pipeline):
+- ** Desarrollo de un Sistema de Soporte a la Decisión (DSS)** que utiliza **Python, OCR y Regex** para procesar sentencias judiciales, reduciendo tiempos manuales en un 90%.
 - **Arquitectura de Datos Ponderada:** Diseño de motores de reglas con lógica discriminante para evaluación de riesgos biopsicosociales y patrimoniales.
 - **Gestión SAP S/4 HANA:** Conocimiento profundo de estructuras organizativas, datos maestros y flujos transaccionales en ciclos de compra y venta.
 - **Aseguramiento de Calidad (Data QA):** Implementación de logs de auditoría forense inmutables y control de acceso basado en roles (RBAC) para garantizar la gobernanza de datos.
@@ -49,4 +49,4 @@ Actualmente enfoco mi aprendizaje en arquitecturas Cloud, procesamiento distribu
 - 📍 **Ubicación:** Santiago, Chile.
 
 ---
-[cite_start]*"Transformando la complejidad técnica en soluciones de negocio transparentes y explicables."* [cite: 1094, 1098]
+*"Transformando la complejidad técnica en soluciones de negocio transparentes y explicables."*
